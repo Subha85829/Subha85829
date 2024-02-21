@@ -1,7 +1,7 @@
 ### Hello Subhasish here 👋
 
 
-**Subhasish** a diligent professional with a robust 3 years of experience in the software engineering domain. Currently serving as a **Full-Stack-Developer** at **@CGI**.
+**`Subhasish`** is a diligent professional with a robust 3 years of experience in the software engineering domain. Currently serving as a **`Full-Stack-Developer`** at **`@CGI`**.
 
 I bring a blend of technical proficiency and problem-solving acumen to the table. In navigating the intricate landscape of software development, I bring a disciplined and methodical approach, ensuring optimal solutions for complex challenges.
 
@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.Js and GoLang.
 - 👯 I’m looking to collaborate on OpenSource.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subhasish-modak-482262164/)
-
-in [Section `TechandTools`]
 
 ### Tech and Tools Preferences
 
