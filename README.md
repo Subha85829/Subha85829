@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **E-Commerce Application** known as [SubKaKart](https://github.com/Subha85829/SUBKAKART) 
 - 🌱 I’m currently learning Node.Js and GoLang.
-- 👯 I’m looking to collaborate on OpenSource.
+- 👯 I’m looking to collaborate with OpenSource.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subhasish-modak-482262164/)
 
 ### Tech and Tools Preferences
