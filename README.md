@@ -1,7 +1,7 @@
 ### Hello Subhasish here 👋
 
 
-**`Subhasish`** is a diligent professional with a robust 3 years of experience in the software engineering domain. Currently serving as a **`Full-Stack-Developer`** at **`@CGI`**.
+**`Subhasish`** is a diligent professional with a robust 4 years of experience in the software engineering domain. Currently serving as a **`Senior Software Engineer`** at **`@Infosys`** and Ex - **`@CGI`**.
 
 I bring a blend of technical proficiency and problem-solving acumen to the table. In navigating the intricate landscape of software development, I bring a disciplined and methodical approach, ensuring optimal solutions for complex challenges.
 
@@ -18,10 +18,10 @@ Programming Languages: C# & Java <br />
 Core Concepts: Data Structures and Algorithms, Database Management Systems (DBMS), Object-Oriented Programming (OOPS) <br />
 Frontend Technologies: HTML, CSS, JavaScript, React.JS <br />
 Backend Technologies/Framework: ASP.NET Core (REST API) <br />
-Database Management: MS SQL Server, MySQL <br />
+Database Management: MS SQL Server, MySQL , MongoDB <br />
 Object-Relational Mapping (ORM): ENTITY FRAMEWORK CORE <br />
 Mapping Techniques: AutoMapper <br />
-Testing Tools: XUnit, Moq, Fluent Assertions, Postman <br />
+Testing Tools: MSTest, Moq, Fluent Assertions, Postman <br />
 Version Control : GIT, TFS <br />
-Others : AWS, S3, Glue Jobs, Lambda, Athena, PowerBI, Jira 
+Cloud : AWS, S3, SNS, SQS, Secret Manager, IAM 
 
